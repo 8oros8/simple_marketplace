@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple_marketplace/static/css/main.ba39ff7a.css",
+    "main.js": "/simple_marketplace/static/js/main.3ae1d0a5.js",
+    "static/media/OpenSans-Medium.ttf": "/simple_marketplace/static/media/OpenSans-Medium.f0cdede053a22b990af8.ttf",
+    "static/media/OpenSans-Regular.ttf": "/simple_marketplace/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/simple_marketplace/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "index.html": "/simple_marketplace/index.html",
+    "main.ba39ff7a.css.map": "/simple_marketplace/static/css/main.ba39ff7a.css.map",
+    "main.3ae1d0a5.js.map": "/simple_marketplace/static/js/main.3ae1d0a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba39ff7a.css",
+    "static/js/main.3ae1d0a5.js"
+  ]
+}
